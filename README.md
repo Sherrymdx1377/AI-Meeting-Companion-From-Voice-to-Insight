@@ -1,28 +1,20 @@
 # Table of Contents:
 
-1)
-Speech to text to LLM
+1) Speech to text to LLM
 
-2)
-Step 1. Speech to text
+2) Step 1. Speech to text
 
-3)
-Gradio interface
+3) Gradio interface
 
-4)
-Step 2: Creating audio transcription app
+4) Step 2: Creating audio transcription app
 
-5)
-Step 3. Integrating LLM: Using LLAMA2 in watsonx as LLM
+5) Step 3. Integrating LLM: Using LLAMA2 in watsonx as LLM
 
-6)
-Step 3.1. (Another option) Using HuggingFace hub or OpenAI
+6) Step 3.1. (Another option) Using HuggingFace hub or OpenAI
 
-7)
-Step 4. Put them all together
+7) Step 4. Put them all together
 
-8)
-Conclusion
+8) Conclusion
 
 # At a Glance
 
